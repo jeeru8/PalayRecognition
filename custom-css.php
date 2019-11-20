@@ -1,0 +1,16 @@
+<style>
+	#myProgress {
+	  width: 100%;
+	  background-color: #ddd;
+	}
+
+	#myBar {
+	  width: 1%;
+	  height: 30px;
+	  background-color: #4CAF50;
+	}
+	#content{
+	    display:none;
+	}
+
+</style>
